@@ -31,7 +31,7 @@
     background: radial-gradient(121.7% 121.7% at 45.28% 10.98%, #008505 0%, rgba(0, 58, 2, 0) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    -webkit-text-stroke-width: 6px;
+    -webkit-text-stroke-width: 5px;
     -webkit-text-stroke-color: yellow;
 }
 
